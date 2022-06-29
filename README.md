@@ -21,7 +21,3 @@
 *yarn*
 ```yarn start```
 
-### Dependencies
-
-1. Create a json file to act as database(db.json)
-2. In the file the root of the project should contain all routes e.g
